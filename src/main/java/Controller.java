@@ -28,7 +28,7 @@ public class Controller {
     }
 
     /**
-     * The main method
+     * Starts the game and controls the game flow
      */
     public void play() {
         createRandomNumber();
